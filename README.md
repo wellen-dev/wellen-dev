@@ -26,6 +26,6 @@
 ---
 
 <div align="center">
-  Obrigada por visitar meu perfil! 💜  
+  Obrigada por visitar meu perfil!  
   Se curtir algum projeto, sinta-se à vontade para deixar uma ⭐ ou contribuir!  
 </div>
