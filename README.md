@@ -8,7 +8,7 @@
 
 ### 💼 Sobre mim
 
-Sou desenvolvedora de software com uma sólida experiência em **backend** e **engenharia de sistemas**, e uma forte paixão por dados. Atualmente, estou focada em automações utilizando **Python** 🐍, análise de dados com **SQL** 🧠, além de me aprofundar em **Machine Learning**, **Big Data** e **arquiteturas orientadas a dados**, como **Data Lakes** 🌊.
+Sou desenvolvedora de software com uma sólida experiência em **backend** e **engenharia de sistemas**, aliando essa base técnica a uma forte afinidade com **engenharia e ciência de dados** para construir soluções escaláveis, inteligentes e orientadas a resultados. Atualmente, estou focada em automações utilizando **Python** 🐍, análise de dados com **SQL** 🧠, além de me aprofundar em **Machine Learning**, **Big Data** e **arquiteturas orientadas a dados**, como **Data Lakes** 🌊.
 
 Tenho grande afinidade com o desenvolvimento **backend**, especialmente utilizando **Java** ☕, e estou sempre aprimorando meus conhecimentos em **engenharia de software**, com ênfase em **arquitetura de sistemas**, **boas práticas de desenvolvimento** e **padrões de projeto**. Meu objetivo é criar soluções escaláveis, eficientes e resilientes, com foco em resultados de alto impacto.
 
@@ -52,8 +52,6 @@ Combinando essas áreas, minha missão é criar sistemas robustos, escaláveis e
 ### 🤝 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellen-carvalho-5804b8160/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]
 
 ---
 
