@@ -1,27 +1,59 @@
 <h1 align="center">Olá, mundo! 👋 Eu sou a Wellen Carvalho</h1>
 
 <p align="center">
-  💻 Desenvolvedora de software apaixonada por resolver problemas com código.  
-  🎯 Atualmente focada em automação com Python, desenvolvimento web com JavaScript e iniciando minha jornada com Java.
+  💻 Desenvolvedora de Software | 🔍 Foco em Dados, Backend e Engenharia de Software | 🔐 Entusiasta em Cibersegurança
 </p>
 
 ---
 
-### 🚀 Tecnologias que estou usando atualmente:
+### 💼 Sobre mim
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+Sou desenvolvedora de software com uma sólida experiência em **backend** e **engenharia de sistemas**, e uma forte paixão por dados. Atualmente, estou focada em automações utilizando **Python** 🐍, análise de dados com **SQL** 🧠, além de me aprofundar em **Machine Learning**, **Big Data** e **arquiteturas orientadas a dados**, como **Data Lakes** 🌊.
+
+Tenho grande afinidade com o desenvolvimento **backend**, especialmente utilizando **Java** ☕, e estou sempre aprimorando meus conhecimentos em **engenharia de software**, com ênfase em **arquitetura de sistemas**, **boas práticas de desenvolvimento** e **padrões de projeto**. Meu objetivo é criar soluções escaláveis, eficientes e resilientes, com foco em resultados de alto impacto.
+
+Além disso, tenho experiência com **cibersegurança**, com ênfase em **análise de vulnerabilidades**, **defesa de aplicações** e **arquitetura segura** 🔐. Acredito que segurança é um pilar essencial de qualquer aplicação moderna, e busco sempre integrar boas práticas de segurança em todas as minhas soluções.
+
+Combinando essas áreas, minha missão é criar sistemas robustos, escaláveis e seguros, sempre com uma visão estratégica que permita entregar resultados reais e impactantes.
 
 ---
 
-### 📫 Onde me encontrar:
-- 💼 [LinkedIn - wellen-carvalho](https://www.linkedin.com/in/wellen-carvalho-5804b8160/)
-- 🛠️ Repositórios e projetos abaixo 👇
+### 🛠️ Tecnologias & Ferramentas
+
+**Linguagens & Frameworks:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+
+**Dados & Cloud:**  
+![Big Data](https://img.shields.io/badge/Big%20Data-black?style=flat&logo=apache&logoColor=white)
+![Data Lake](https://img.shields.io/badge/Data%20Lake-blue?style=flat&logo=databricks&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat&logo=scikit-learn&logoColor=white)
+
+**Ferramentas & Boas práticas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+
+
+---
+
+### 📚 Em aprendizado contínuo
+
+- Arquitetura de Software (com foco em escalabilidade e clean architecture)
+- Desenvolvimento backend com Java
+- Boas práticas de DevOps e versionamento
+- Cibersegurança aplicada ao desenvolvimento
+
+---
+
+### 🤝 Vamos nos conectar?
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellen-carvalho-5804b8160/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)]
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)]
 
 ---
 
