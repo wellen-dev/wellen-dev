@@ -52,7 +52,7 @@ Combinando essas áreas, minha missão é criar sistemas robustos, escaláveis e
 ### 🤝 Vamos nos conectar?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wellen-carvalho-5804b8160/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](wellen.acarvalho@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wellen.acarvalho@gmail.com) 
 
 ---
 
