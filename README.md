@@ -1,4 +1,4 @@
-<h1 align="center">Wellen Carvalho</h1>
+<h1 align="center">💻 Wellen Carvalho</h1>
 
 <p align="center">
 Desenvolvedora de Software | Foco em Dados, Backend e Engenharia de Software | Entusiasta em Cibersegurança
@@ -61,3 +61,4 @@ Minha missão é construir sistemas robustos, escaláveis e seguros, com visão 
 Muito obrigada por visitar meu perfil.  
 Se tiver interesse em algum projeto, sinta-se à vontade para deixar uma estrela ou contribuir.
 </div>
+
